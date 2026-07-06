@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Kawasaki Service Logs</title>
+    <link>https://kawasaki.com</link>
+    <description>Service Logs for 2023 Kawasaki ZX-10R</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2026 02:39:00 -0400</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 02:39:00 -0400</pubDate>
+
+    <item>
+      <title>Engine Rebuild In Progress</title>
+      <description><![CDATA[ZX-10R has been transported to <b>Team Charlotte Motorsports</b> due to early signs of engine seizure. Engine Rebuild imminent.]]></description>
+      <pubDate>Sat, 04 Jan 2025 01:31:00 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Engine Rebuild Completed</title>
+      <description><![CDATA[ZX-10R Engine rebuild has been completed at <b> Team Charlotte Motorsports </b> and has been transported via trailer.]]></description>
+      <pubDate>Wed, 26 Aug 2025 7:57:00 -0400</pubDate>
+    </item>
+
+    <item>
+      <title>Self Maintenance: 18K Interval</title>
+      <description><![CDATA[Changed oil]]></description>
+      <pubDate>Sat, 07 Feb 2026 01:31:00 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
