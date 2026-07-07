@@ -6,34 +6,34 @@
     <description>Service Logs for 2023 Kawasaki ZX-10R</description>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2026 02:39:00 -0400</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 02:39:00 -0700</pubDate>
+    <pubDate>Mon, 06 Jul 2026 02:39:00 GMT</pubDate>
 
     <item>
       <title>Engine Rebuild In Progress</title>
       <status>In Progress</status>
       <description><![CDATA[ZX-10R has been transported to the dealership due to early signs of engine seizure. Engine Rebuild imminent.]]></description>
-      <pubDate>Sat, 04 Jan 2025 01:31:00 -0700</pubDate>
+      <pubDate>Sat, 04 Jan 2025 01:31:00 GMT</pubDate>
     </item>
     
     <item>
       <title>Engine Rebuild Completed</title>
       <status>Completed</status>
       <description><![CDATA[ZX-10R Engine rebuild has been completed at <b> Team Charlotte Motorsports </b> and has been transported via trailer.]]></description>
-      <pubDate>Wed, 26 Aug 2025 7:57:00 -0700</pubDate>
+      <pubDate>Wed, 26 Aug 2025 7:57:00 GMT</pubDate>
     </item>
 
     <item>
       <title>Self Maintenance: 18K Interval</title>
       <status>Completed</status>
       <description><![CDATA[Changed oil at 3000 miles.]]></description>
-      <pubDate>Sat, 07 Feb 2026 01:31:00 -0700</pubDate>
+      <pubDate>Sat, 07 Feb 2026 01:31:00 GMT</pubDate>
     </item>
 
     <item>
       <title>Engine Service: Valve Replacement in Progress</title>
       <status>In Progress</status>
       <description><![CDATA[ZX-10R has been transported to the <b>dealership</b> for engine valve replacement. Currently waiting for head gasket since all parts have been ordered & delivered under warranty.]]></description>
-      <pubDate>Sat, 08 May 2026 12:00:00 -0700</pubDate>
+      <pubDate>Sat, 08 May 2026 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
