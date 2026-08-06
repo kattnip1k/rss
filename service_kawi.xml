@@ -30,10 +30,17 @@
     </item>
 
     <item>
-      <title>Engine Service: Valve Replacement in Progress</title>
-      <status>In Progress</status>
+      <title>Engine Service: Valve Replacement</title>
+      <status>Notified</status>
       <description><![CDATA[ZX-10R has been transported to the <b>dealership</b> for engine valve replacement. Currently waiting for head gasket since all parts have been ordered & delivered under warranty.]]></description>
       <pubDate>Sat, 08 May 2026 00:00:00 GMT-4</pubDate>
+    </item>
+
+    <item>
+      <title>Engine Service: Valve Replacement in Progress</title>
+      <status>In Progress</status>
+      <description><![CDATA[I've spoke to my service manager at <b>Team Charlotte Motorsports</b> and was told that the mechanic will be replacing the valves on the ZX-10R today. All parts have been delivered under warranty from Kawasaki. At the time of writing, the ZX-10R has been dormant at the dealership since <b>May 8 (3 months ago)</b>.]]></description>
+      <pubDate>Thu, 6 Aug 2026 00:00:00 GMT-4</pubDate>
     </item>
   </channel>
 </rss>
